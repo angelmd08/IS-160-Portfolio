@@ -1,3 +1,3 @@
-# IS-160-Portfolio
+# Lab 5
 
-With in this portfolio I have assembled the current labs that i have worked on throughout the semester. If you go thru each branch within this portfolio, it will have each lab in chronological order. 
+in this file, is some of the handwritten code, that i wrote from memory using the previous knowledge of deep learning models. Albeit, it's not fully complete, however, it does show my understanding and grasp of the coding concepts in order to create/manipulate data to make it useful for coding.
