@@ -1,3 +1,5 @@
-# IS-160-Portfolio
+# Lab 11
 
-With in this portfolio I have assembled the current labs that i have worked on throughout the semester. If you go thru each branch within this portfolio, it will have each lab in chronological order. 
+this file contains the physical calculation of the Markov Decison Process, which is one of the methods used within Reinforcment Learning, or should i say the only one. 
+
+Withing Markow Decison, the A.I. model is in a game like state, and trying to reap as many rewards as it can before reaching its final destination 
