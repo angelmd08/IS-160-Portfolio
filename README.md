@@ -1,3 +1,3 @@
-# IS-160-Portfolio
+# Lab 12
 
-With in this portfolio I have assembled the current labs that i have worked on throughout the semester. If you go thru each branch within this portfolio, it will have each lab in chronological order. 
+this file contains the RL model that my partner and I created and messed with. A fun learning experince that lets us use differnet methods in order to acheive the fastes speed, which was a challenge yet fun experince  
